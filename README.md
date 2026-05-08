@@ -4,6 +4,9 @@ A custom Arduino-powered interactive tabletop game inspired by Greek mythology, 
 
 This repository contains the complete Arduino logic powering **Clash of Olympus**, a mythology-themed competitive strategy game designed for children aged 5–8 as part of the DES206 Prototyping Interactive Systems end-semester project.
 
+[Video Demonstration](https://drive.google.com/file/d/1k1gPH57bEjyo8x-bGU9Tzhk5hKQYZL8T/view?usp=sharing)
+[Presentation](Group16FinalProject.pdf)
+
 ---
 
 # Team Members
