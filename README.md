@@ -11,9 +11,9 @@ This repository contains the complete Arduino logic powering **Clash of Olympus*
 
 # Team Members
 
-* Mayank Yadav (2024343)
-* Shanthini Muralidhar (2024520)
 * Urvashi Gupta (2024593)
+* Shanthini Muralidhar (2024520)
+* Mayank Yadav (2024343) 
 
 ---
 
